@@ -36,7 +36,7 @@ public:
         this->brandName = brandName;
     }
 
-    // Getters
+    // Getter
     int getBrandId()
     {
         return this->brandId;
